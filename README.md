@@ -7,4 +7,4 @@ BADGES
 |[![Code Quality - CI-Coverage](https://github.com/Anirudh11706436/Project1/actions/workflows/gcov.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/gcov.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/Anirudh11706436/Project1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/cppcheck.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Anirudh11706436/Project1/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/Valgrind.yml)
-
+[![Contribution Check - Git Inspector](https://github.com/Anirudh11706436/Project1/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/gitinspector.yml)
