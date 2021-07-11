@@ -8,3 +8,4 @@ BADGES
 [![Code Quality - Static Code - Cppcheck](https://github.com/Anirudh11706436/Project1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/cppcheck.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Anirudh11706436/Project1/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/Valgrind.yml)
 [![Contribution Check - Git Inspector](https://github.com/Anirudh11706436/Project1/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/gitinspector.yml)
+[![Unit Testing - Unity](https://github.com/Anirudh11706436/Project1/actions/workflows/unity.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/unity.yml)
