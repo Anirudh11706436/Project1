@@ -3,5 +3,5 @@
   # SDLC Activity Based Learning
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
-[![C/C++ CI - Build Status](https://github.com/Anirudh11706436/Project1/actions/workflows/c_cpp.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/c_cpp.yml)
-|[![Code Quality - CI-Coverage](https://github.com/Anirudh11706436/Project1/actions/workflows/gcov.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/gcov.yml)
+[![C/C++ CI - Build Status](https://github.com/Anirudh11706436/Project1/actions/workflows/c_cpp.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/c_cpp.yml)|[![Code Quality - CI-Coverage]
+(https://github.com/Anirudh11706436/Project1/actions/workflows/gcov.yml/badge.svg)](https://github.com/Anirudh11706436/Project1/actions/workflows/gcov.yml)
